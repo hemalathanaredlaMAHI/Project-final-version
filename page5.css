@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    color: blueviolet;
+    font-size:50px;
+   }
+   h2{
+       color:blue;
+       font-size: 30px;
+   }
+   p{
+       font-size:20px;
+   }
+   table,tr,td,th{
+   border:1px solid black;
+   column-span:"100";
+   padding:0.5%;
+   width: 1000px;;
+   height:50px;
+   font-size:22px;
+   text-align: center;
+   border: 2px solid black;
+   border-collapse: collapse;
+   }
